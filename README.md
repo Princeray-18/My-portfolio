@@ -32,7 +32,7 @@ portfolio/
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/Princeray-18/My-portfolio.git
    ```
 
 2. Open in VS Code:
